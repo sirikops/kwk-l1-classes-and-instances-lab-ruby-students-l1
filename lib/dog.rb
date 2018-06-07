@@ -25,5 +25,6 @@ class Dog
     def lassie=(lassie)
       @lassie=lassie
     end
+  
   end
   
